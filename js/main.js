@@ -36,6 +36,11 @@ var redCurrant = {
 
 // Write your function here, name it `writeBerries`
 
+var writeBerries = function (berries) {
+  document.write('<h1>Berries</h1>');
+};
+
+listContacts(peeps);
 
 // ##########################################################
 // START DO NOT CHANGE ZONE
